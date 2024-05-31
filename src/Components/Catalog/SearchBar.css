@@ -1,0 +1,29 @@
+.search-bar {
+  max-width: 350px;
+  margin: auto;
+}
+
+.search-form {
+  display: flex;
+  justify-content: space-evenly;
+}
+
+.search-label {
+  font-size: 1.25rem;
+  font-weight: bold;
+}
+.search-input {
+  font-size: 1.25rem;
+  padding: 1px;
+  font-weight: bold;
+}
+
+.search-submit {
+  font-size: 1.25rem;
+  font-weight: bold;
+  padding: 1px;
+}
+
+.search-submit:hover {
+  background-color: #e7f9e7;
+}
